@@ -9,14 +9,14 @@
 
 <br>
 
-- 🔨 Desenvolvendo atualmente na linguagem Java.
-- 🧠 Experiência em back-end e front end: Python, HTML, CSS.
-- 📧 Contato: reeiskkz@gmail.com
+- 🔨 Currently developing in the Java language.
+- 🧠 Experience in back-end and front-end: Python, HTML, CSS.
+- 📧 Contact: reeiskkz@gmail.com
 
 <br>
 <div align="center">
   
-## **Languages 👨🏽‍💻:**
+## **Technologies 👨🏽‍💻:**
 </div>
   
 <div style="display: inline_block" align="center" >
