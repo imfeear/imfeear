@@ -10,7 +10,7 @@
 <br>
 
 - 🔨 Currently developing in the Java language.
-- 🧠 Experience in back-end and front-end: Spring Boot, C#, React.
+- 🧠 Experience in back-end and front-end: Spring Boot, C#, React, SQL, NO-SQL.
 - 📧 Contact: reeiskkz@gmail.com
 
 <br>
