@@ -42,5 +42,6 @@
 <div align="center">
 
 ![Bruno's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=imfeear&theme=github_dark)
+![Bruno's GitHub summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imfeear&theme=github_dark)
 
 </div>
