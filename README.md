@@ -37,16 +37,18 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/reeiskz_/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-reis-66a17427b/)
 
-</div>
-
 <div align="center">
 
-![Bruno's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=imfeear&theme=github_dark)
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=imfeear&theme=github_dark" 
+    alt="Bruno's GitHub stats"
+    height="180em"
+  />
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imfeear&theme=github_dark" 
+    alt="Bruno's GitHub summary"
+    height="180em"
+  />
 
 </div>
 
-<div align="left">
-  
-![Bruno's GitHub summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imfeear&theme=github_dark)
-
-</div>
