@@ -45,7 +45,7 @@
 
 </div>
 
-<div align="center">
+<div align="left">
   
 ![Bruno's GitHub summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imfeear&theme=github_dark)
 
