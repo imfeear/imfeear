@@ -41,6 +41,6 @@
 
 <div align="center">
 
-![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imfeear&theme=github_dark)
+![Bruno's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=imfeear&theme=github_dark)
 
 </div>
