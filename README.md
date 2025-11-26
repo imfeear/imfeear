@@ -40,8 +40,7 @@
 </div>
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=imfeear&layout=compact&theme=dark"
-    alt="Top languages"
-  />
+
+![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imfeear&theme=github_dark)
+
 </div>
