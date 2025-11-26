@@ -40,5 +40,7 @@
 </div>
 
 <div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imfeear&layout=compact&theme=dark)
+
+![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imfeear&theme=github_dark)
+
 </div>
