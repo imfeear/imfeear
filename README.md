@@ -37,9 +37,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/reeiskz_/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-reis-66a17427b/)
 
-</div> 
-<br>
+</div>
+
 <div align="center">
-  <img align="center" width="500" alt="lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imfeear&layout=compact&theme=dark"/>
-</div><br>
-<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imfeear&layout=compact&theme=dark)
+</div>
