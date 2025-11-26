@@ -40,6 +40,6 @@
 </div> 
 <br>
 <div align="center">
-  <img allign="center" width="500" alt="lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imfeear&layout=compact"/>
+  <img align="center" width="500" alt="lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imfeear&layout=compact&theme=dark"/>
 </div><br>
 <br>
