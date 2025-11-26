@@ -40,8 +40,8 @@
 </div>
 
 <div align="center">
-
-![Bruno's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=imfeear&theme=github_dark)
-![Bruno's GitHub summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imfeear&theme=github_dark)
-
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=imfeear&layout=compact&theme=dark"
+    alt="Top languages"
+  />
 </div>
